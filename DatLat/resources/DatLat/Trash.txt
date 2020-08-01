@@ -1,0 +1,35 @@
+
+//datLat1.setElem([0, 2, 4], 4);
+
+//datLat1.setElem([0, 1, 2], "John");
+
+//datLat1.setElem([9, 19], "John");
+//datLat1.setElem([14, 12], "John");
+//datLat1.setElem([19, 9], "John");
+
+//let x = datLat1.getElem([2, 2]);
+
+//console.log(x+3);
+
+//console.log(datLat1.linearSearchAll("John"));
+
+-----------------------------------------------
+
+/*
+function updateDisplay(datLat, table) {
+    for(let i = 0; i < datLat.dimLengthArray[0]; i++) {
+        var row = document.getElementById("row" + i);
+    
+        for(let j = 0; j < datLat.dimLengthArray[1]; j++) {
+            var column = document.getElementById("id","column" + i + "and" + j);
+    
+            column.innerHTML = datLat.getElem([i, j]);
+    
+            currentRow.appendChild(column);
+        }
+    }
+}
+*/
+
+-----------------------------------------------
+
